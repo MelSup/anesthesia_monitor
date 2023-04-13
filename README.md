@@ -28,3 +28,5 @@ Scenario 2: Anaphylactic shock
 Scenario 3: Awareness
 
 Scenario 4: Bronchospasm
+
+![Model](Paste_link_here)
