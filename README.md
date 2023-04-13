@@ -29,4 +29,4 @@ Scenario 3: Awareness
 
 Scenario 4: Bronchospasm
 
-![Model](Paste_link_here)
+![Model](https://github.com/MelSup/anesthesia_monitor/blob/main/monitor.png)
