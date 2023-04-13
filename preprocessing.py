@@ -75,4 +75,4 @@ df2 = df2[['time','etco2','tv','relative_tv','relative_tv_story','pplat','relati
 df2=df2.drop(columns=['tv_duplicate','pplat_duplicate'])
 st.write(df2)
 
-df2.to_csv('preprocessed_data.csv', index=False)
+df2.to_csv('./data/preprocessed_data.csv', index=False)
