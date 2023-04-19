@@ -584,7 +584,7 @@ for i in range (len(df)):
         st.markdown('<div style="text-align: left; font-size:18px;vertical-align: middle;color: royalblue">TV<a style="float: right; font-size:14px; vertical-align: bottom;">ml</a></div></ br><div style="text-align: center;font-size:24px;color: royalblue">{}</div>'.format(tv), unsafe_allow_html=True)
 
   with card_pressure:
-        st.markdown('<div style="text-align: left; font-size:18px;vertical-align: middle;color:orange">Pplat<a style="float: right; font-size:14px; vertical-align: bottom;">cmH2O</a></div></ br><div style="text-align: center;font-size:24px;color:orange">{}</div>'.format(pplat), unsafe_allow_html=True)
+        st.markdown('<div style="text-align: left; font-size:18px;vertical-align: middle;color:orange">Pinsp<a style="float: right; font-size:14px; vertical-align: bottom;">cmH2O</a></div></ br><div style="text-align: center;font-size:24px;color:orange">{}</div>'.format(pplat), unsafe_allow_html=True)
 
   with space_bc:
         st.markdown('<h1 style="font-size:50px; height:80px;"></h1>', unsafe_allow_html=True)
