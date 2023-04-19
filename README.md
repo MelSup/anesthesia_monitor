@@ -1,5 +1,5 @@
 # Anesthesia Monitor
-This is a new visual display for vital signs monitoring in anesthesia
+This is a new integrated visual display prototype for the monitoring of vital signs in anesthesia
 
 The project was coded in Python using Visual Studio Code (VSC).
 
